@@ -1,0 +1,42 @@
+====================================================
+         RELATÓRIO ADMINISTRATIVO COMPLETO          
+         Data: 2025-10-20
+====================================================
+
+====================================================
+           1. PERFORMANCE GERAL DO BANCO            
+====================================================
+LucroTaxas               : 132.5
+LucroTotal               : 132.5
+TotalContas              : 13
+TotalClientes            : 10
+VolumeFinanceiro         : 2594800.0
+CapitalBanco             : 1000132.5
+TotalTransacoes          : 21
+Total Clientes Ativos: 10
+Total Contas Ativas:   0
+Total Transações:      21
+
+====================================================
+               2. RELATÓRIO DE CAIXA                
+====================================================
+=== RELATÓRIO DO CAIXA ===
+
+Total de Contas: 13
+Saldo Total no Banco: 2528458.00 MZN
+Total de Depósitos: 2561700.00 MZN
+Total de Saques: 32400.00 MZN
+Lucro de Taxas: 132.50 MZN
+
+-----------------------------
+Data: 2025-10-20
+
+====================================================
+               3. ESTATÍSTICAS CHAVE                
+====================================================
+📊 Clientes Cadastrados: 10
+🏦 Contas Totais: 13
+💳 Transações Realizadas: 21
+💰 Saldo Total no Banco: 2528458.00 MZN
+
+

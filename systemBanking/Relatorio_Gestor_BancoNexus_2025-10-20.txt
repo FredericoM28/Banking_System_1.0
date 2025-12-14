@@ -1,0 +1,46 @@
+====================================================
+         RELATÓRIO DE GESTÃO E DESEMPENHO           
+         Data: 2025-10-20
+====================================================
+
+====================================================
+           1. PERFORMANCE GERAL DO BANCO            
+====================================================
+LucroTaxas               : 139.0
+LucroTotal               : 139.0
+TotalContas              : 13
+TotalClientes            : 10
+VolumeFinanceiro         : 2594800.0
+CapitalBanco             : 1000139.0
+TotalTransacoes          : 21
+Total Clientes Ativos: 10
+Total Contas Registradas: 13
+Saldo Total Agregado: 2528458.00 MZN
+Total Transações: 21
+
+====================================================
+               2. RELATÓRIO DE CAIXA                
+====================================================
+=== RELATÓRIO DO CAIXA ===
+
+Total de Contas: 13
+Saldo Total no Banco: 2528458.00 MZN
+Total de Depósitos: 2561700.00 MZN
+Total de Saques: 32400.00 MZN
+Lucro de Taxas: 139.00 MZN
+
+-----------------------------
+Data: 2025-10-20
+
+====================================================
+         3. TRANSAÇÕES DE ALTO VALOR (>5000)        
+====================================================
+🚨 ALTO VALOR: 20000.00 MZN | Tipo: Depósito Flexível | Data: 2025-10-13T01:35:02
+🚨 ALTO VALOR: 10000.00 MZN | Tipo: Depósito Flexível | Data: 2025-10-13T01:55:58
+🚨 ALTO VALOR: 20000.00 MZN | Tipo: Depósito Flexível | Data: 2025-10-15T19:57:24
+🚨 ALTO VALOR: 500000.00 MZN | Tipo: Depósito Flexível | Data: 2025-10-15T19:59:06
+🚨 ALTO VALOR: 20000.00 MZN | Tipo: Saque Flexível | Data: 2025-10-15T20:05:15
+🚨 ALTO VALOR: 2000000.00 MZN | Tipo: Depósito Flexível | Data: 2025-10-16T19:56:38
+
+Total de transações de alto valor: 6
+
