@@ -56,7 +56,7 @@ Este projeto foi desenvolvido em colaboração para o trabalho semestral.
 
 | Contribuinte | Papel Principal |
 | :--- | :--- |
-| **@Tilza_Calisto** | Front-End Developmentl |
+| **@Tilza_Calisto** | Front-End Development  |
 | **@Delson_Mafumo** | Banck-end Development  |
 | **@FredericoM28**  | Full-Stack Development |
 
