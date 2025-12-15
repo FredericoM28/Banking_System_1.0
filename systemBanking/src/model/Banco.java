@@ -14,7 +14,7 @@ public class Banco {
         this.nome = nome;
         this.capital = capitalInicial;
         this.lucro = 0;
-        this.lucroTaxas = 0; // ✅ INICIALIZAR
+        this.lucroTaxas = 0; //  INICIALIZAR
         this.contas = new ArrayList<>();
     }
 
@@ -32,7 +32,7 @@ public class Banco {
         contas.add(conta);
     }
 
-    // ✅ GETTERS COMPLETOS
+    //  GETTERS COMPLETOS
     public String getNome() {
         return nome;
     }
@@ -53,7 +53,7 @@ public class Banco {
         return contas;
     }
 
-    // ✅ SETTERS PARA CARREGAR DO BANCO
+    //  SETTERS PARA CARREGAR DO BANCO
     public void setCapital(double capital) {
         this.capital = capital;
     }
