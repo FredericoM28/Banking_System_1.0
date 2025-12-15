@@ -58,7 +58,7 @@ Este projeto foi desenvolvido em colaboração para o trabalho semestral.
 | :--- | :--- |
 | **@Tilza_Calisto** | Front-End Developmentl |
 | **@Delson_Mafumo** | Banck-end Development  |
-| **[FredericoM28]**  | Full-Stack Development |
+| **@FredericoM28**  | Full-Stack Development |
 
 ---
 **Observação:** O código deste sistema foi desenvolvido com foco em demonstrar as interações e a lógica de negócios de um ambiente bancário.
